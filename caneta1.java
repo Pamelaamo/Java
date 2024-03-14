@@ -1,4 +1,4 @@
-import main2;
+import main2.java;
 
 public class Caneta {
     String modelo;

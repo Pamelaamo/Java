@@ -1,6 +1,6 @@
-import caneta1;
+import caneta1.java;
 
-public class main{
+public class Main{
 
     public static void main(String[] args) {
         Caneta c1 = new Caneta();
